@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import {
   ArrowUpRight, ArrowRight, ArrowLeft, Search, Menu, X, Sparkles, Code2,
   BrainCircuit, Eye, Layers3, GraduationCap, Compass, BookOpen, Users,
-  Accessibility, CheckCircle2, Github, Linkedin, Mail, ExternalLink,
+  Accessibility, CheckCircle2, Github, LinkedinIcon, Mail, ExternalLink,
   ChevronDown, MousePointer2, Smartphone, Zap, Lightbulb, CircleHelp,
   SlidersHorizontal, Terminal, Play, ShieldCheck, Languages, Clock3
 } from 'lucide-react';
